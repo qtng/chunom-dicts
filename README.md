@@ -6,7 +6,7 @@ One folder per dictionary (`bonet/`; Génibrel to follow).
 
 The page images of Jean Bonet, *Dictionnaire annamite-français (langue officielle et langue vulgaire)*, Paris, Imprimerie nationale / E. Leroux, 1899–1900 (2 volumes), for the dictionary viewer of chunom.org (`https://chunom.org/chunom/dict/bonet.html`).
 
-`bonet/<N>.webp`: image number N = 1..1032 (displayed page + 39), served at `https://chunom.org/chunom-dict/bonet/<N>.webp`.
+`bonet/<N>.webp`: image number N = 1..1032 (displayed page + 39), served at `https://chunom.org/chunom-dicts/bonet/<N>.webp`.
 
 Source: the scans of the Internet Archive (copy of the Boston Public Library, greyscale, 350 ppi):
 [volume 1, A–M](https://archive.org/details/dictionnaireanna01bone), [volume 2, N–X](https://archive.org/details/dictionnaireanna02bone).
